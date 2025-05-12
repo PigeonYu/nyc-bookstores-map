@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0 20px;
+    background-color: #f7f5ef;
+    background-image: url('https://us.123rf.com/450wm/kluva/kluva1512/kluva151200057/49482654-books-library-seamless-pattern-reading-background-hand-drawn-doodle-pattern-seamless-pattern.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1 {
+    margin-top: 30px;
+    font-size: 2.2rem;
+    color: #333;
+}
+.description {
+    font-size: 1rem;
+    color: #444;
+    max-width: 600px;
+    margin: 0 auto 20px;
+}
+#map {
+    width: 100%;
+    max-width: 900px;
+    height: 500px;
+    margin: 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+#buttons {
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.store-btn {
+    background-color: #89CFF0;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    font-size: 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+.store-btn:hover {
+    background-color: #1BA784;
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}

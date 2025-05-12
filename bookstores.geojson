@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mcnally",
+        "name": "McNally Jackson",
+        "description": "📚 Located in SoHo, McNally Jackson is a beloved indie bookstore with an in-house café."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9965, 40.7233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "strand",
+        "name": "Strand Bookstore",
+        "description": "📖 Known for its '18 miles of books', Strand is a NYC classic!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9909, 40.7333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rizzoli",
+        "name": "Rizzoli Bookstore",
+        "description": "🎨 Rizzoli specializes in illustrated books and foreign literature. A true cultural gem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9774, 40.7455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "greenlight",
+        "name": "Greenlight Bookstore",
+        "description": "📍 Community-powered bookstore in Fort Greene, Brooklyn with great events and selection."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9730, 40.6865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "booksaremagic",
+        "name": "Books Are Magic",
+        "description": "✨ A charming bookstore in Cobble Hill, Brooklyn with a fun, youthful atmosphere."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9911, 40.6866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "albertine",
+        "name": "Albertine",
+        "description": "📘 French & international literature in a stunning space on Upper East Side."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9632, 40.7742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "word",
+        "name": "Word Bookstore",
+        "description": "🧠 Independent bookstore in Greenpoint with thoughtful picks and great author events."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9544, 40.7280]
+      }
+    }
+  ]
+}
